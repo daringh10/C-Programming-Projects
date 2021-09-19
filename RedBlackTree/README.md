@@ -1,7 +1,3 @@
-* Darin Gharib, dgharib
-* 2021 Spring CSE101 PA#7
-* README.md
-* README
 
 
 #Purpose

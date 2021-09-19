@@ -1,9 +1,4 @@
-/*********************************************************************************
-* Darin Gharib, dgharib
-* 2021 Spring CSE101 PA#6
-* README.md
-* README
-*********************************************************************************/
+
 
 #Purpose
 Creating a Dictionary ADT based off a BST. We can store key value pairs
