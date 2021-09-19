@@ -1,0 +1,73 @@
+******************************************************
+PRE-ORDER:
+******************************************************
+ pokery
+ mcguigan
+ geothermic
+ cabbalist
+ imprinters
+ gooseries
+ jemmied
+ phaenology
+ menagaries
+ pliosaurs
+ theatricalises
+ snowfall
+ reapportionment
+ psammitic
+ punctulated
+ reinfuse
+ teleses
+ unenquiring
+ timbrologist
+ varietally
+
+
+******************************************************
+IN-ORDER:
+******************************************************
+ cabbalist
+ geothermic
+ gooseries
+ imprinters
+ jemmied
+ mcguigan
+ menagaries
+ phaenology
+ pliosaurs
+ pokery
+ psammitic
+ punctulated
+ reapportionment
+ reinfuse
+ snowfall
+ teleses
+ theatricalises
+ timbrologist
+ unenquiring
+ varietally
+
+
+******************************************************
+POST-ORDER:
+******************************************************
+ cabbalist
+ gooseries
+ jemmied
+ imprinters
+ geothermic
+ menagaries
+ pliosaurs
+ phaenology
+ mcguigan
+ punctulated
+ psammitic
+ reinfuse
+ reapportionment
+ teleses
+ snowfall
+ timbrologist
+ varietally
+ unenquiring
+ theatricalises
+ pokery
